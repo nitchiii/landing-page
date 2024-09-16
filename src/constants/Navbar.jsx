@@ -7,7 +7,7 @@ const navbar = () => {
     setIsOpen(!isOpen)
   }
   return (
-    <nav className="border-b-2"></nav>
+    <nav className="border-b-2">hi</nav>
   )
 }
 
